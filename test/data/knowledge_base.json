@@ -1,0 +1,30 @@
+[
+  {
+    "domain": "legal",
+    "question": "Shartnoma buzilishi nima?",
+    "answer": "Shartnoma buzilishi - bu shartnoma shartlarining bajarilmasligi yoki noto'g'ri bajarilishi holatidir.",
+    "keywords": ["shartnoma", "buzilish", "huquq"],
+    "language": "uz",
+    "added_by": "admin",
+    "verified": true
+  },
+    {
+        "domain": "legal",
+        "question": "What is a breach of contract?",
+        "answer": "A breach of contract is a legal term that refers to the failure to perform any term of a contract without a legitimate legal excuse.",
+        "keywords": ["contract", "breach", "legal"],
+        "language": "en",
+        "added_by": "admin",
+        "verified": true
+    },
+    {
+            "domain": "legal",
+            "question": "¿Qué es un incumplimiento de contrato?",
+            "answer": "Un incumplimiento de contrato es un término legal que se refiere al incumplimiento de cualquier término de un contrato sin una excusa legal legítima.",
+            "keywords": ["contrato", "incumplimiento", "legal"],
+            "language": "es",
+            "added_by": "admin",
+            "verified": true
+        }
+]
+

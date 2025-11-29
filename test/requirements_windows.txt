@@ -1,0 +1,17 @@
+# NLP / embeddings
+sentence-transformers==2.2.2
+torch==2.2.0+cpu        # CPU versiyasi, GPU kerak bo'lsa alohida o'rnatiladi
+numpy==1.26.6
+scikit-learn==1.3.2
+
+# Language detection
+langdetect==1.0.9
+
+# NLTK (tokenization, stopwords, lemmatization)
+nltk==3.9.1
+
+# FAISS (CPU)
+faiss-cpu==1.7.4
+
+# Optional: progress bar
+tqdm==4.66.1
