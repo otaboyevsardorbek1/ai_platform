@@ -1,5 +1,6 @@
 # voice/text_to_speech.py
 import pyttsx3
+from typing import Dict
 import threading
 import queue
 import time
