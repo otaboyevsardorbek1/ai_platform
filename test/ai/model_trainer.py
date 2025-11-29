@@ -11,7 +11,7 @@ import json
 import numpy as np
 import faiss
 import config
-from nlp_processor import NLPProcessor
+from .nlp_processor import NLPProcessor
 
 nlp = NLPProcessor()
 
