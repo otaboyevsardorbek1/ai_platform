@@ -1,11 +1,43 @@
-[
-  {
-    "domain": "education",
-    "question": "Ta`lim kiriditin nima?",
-    "answer": "Ta`lim kiriditi - bu talabalar va o'quvchilar uchun mo'ljallangan moliyaviy yordam bo'lib, ularni ta'lim olish xarajatlarini qoplashga yordam beradi. Ushbu kreditlar odatda past foiz stavkalari va qulay to'lov shartlari bilan ta'minlanadi.",
-    "keywords": ["ta`lim", "kiridit", "moliyaviy yordam"],
-    "language": "uz",
-    "added_by": "user",
-    "verified": false
-  }
-]
+{
+    "education":{
+      "uz": { 
+      "deckription": "Ta`lim kiriditi haqida ma'lumot",
+      "question": "Ta`lim kiriditin nima?",
+      "answer": "Ta`lim kiriditi - bu talabalar va o'quvchilar uchun mo'ljallangan moliyaviy yordam bo'lib, ularni ta'lim olish xarajatlarini qoplashga yordam beradi. Ushbu kreditlar odatda past foiz stavkalari va qulay to'lov shartlari bilan ta'minlanadi.",
+      "keywords": ["ta`lim", "kiridit", "moliyaviy yordam"],
+      "added_by": "user",
+      "verified": false},
+      "ru": {
+      "deckription": "Информация о студенческом кредите",
+      "question": "Что такое студенческий кредит?",
+      "answer": "Студенческий кредит - это финансовая помощь, предназначенная для студентов и учащихся, которая помогает покрыть расходы на образование. Эти кредиты обычно предоставляются с низкими процентными ставками и удобными условиями погашения.",
+      "keywords": ["студенческий", "кредит", "финансовая помощь"],
+      "added_by": "user"},
+      "en": {
+      "deckription": "Information about student loans",
+      "question": "What is a student loan?",
+      "answer": "A student loan is a type of financial aid designed for students and learners to help cover the costs of education. These loans are typically offered with low interest rates and flexible repayment terms.",
+      "keywords": ["student", "loan", "financial aid"],
+      "added_by": "user"}
+    },
+    "healthcare":{
+      "uz": { 
+      "deckription": "Sog'liqni saqlash sug'urtasii haqida ma'lumot",
+      "question": "Sog'liqni saqlash sug'urtasi nima?",
+      "answer": "Sog'liqni saqlash sug'urtasi - bu tibbiy xarajatlarni qoplash uchun mo'ljallangan sug'urta turi. U shifokor ko'riklari, dori-darmonlar,            va jarrohlik amaliyotlari kabi xizmatlarni qamrab oladi.",        
+      "keywords": ["sog'liqni saqlash", "sug'urta", "tibbiy xarajatlar"],
+      "added_by": "user",
+      "verified": false},
+      "ru": {
+      "deckription": "Информация о медицинском страховании",
+      "question": "Что такое медицинское страхование?",
+      "answer": "Медицинское страхование - это тип страхования, предназначенный для покрытия медицинских расходов. Оно охватывает услуги, такие как визиты к врачу, лекарства и хирургические процедуры.",
+      "keywords": ["медицинское", "страхование", "медицинские расходы"],
+      "added_by": "user"},
+      "en": {
+      "deckription": "Information about health insurance",
+      "question": "What is health insurance?",
+      "answer": "Health insurance is a type of insurance designed to cover medical expenses. It includes services such as doctor visits, medications, and surgical procedures.",
+      "keywords": ["health", "insurance", "medical expenses"],
+      "added_by": "user"}
+    }
