@@ -1,7 +1,7 @@
 # NLP / embeddings
 sentence-transformers==2.2.2
 torch==2.2.0            # GPU mavjud bo'lsa mos CUDA versiyasi o'rnatish mumkin
-numpy==1.26.6
+numpy
 scikit-learn==1.3.2
 
 # Language detection
@@ -11,7 +11,7 @@ langdetect==1.0.9
 nltk==3.9.1
 
 # FAISS (CPU yoki GPU)
-faiss-cpu==1.7.4        # CPU uchun
+faiss-cpu       # CPU uchun
 # faiss-gpu==1.7.4      # GPU bo'lsa kommentdan chiqarib o'rnatish mumkin
 
 # Optional: progress bar
